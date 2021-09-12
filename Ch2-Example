@@ -1,0 +1,20 @@
+<html>
+<!-- All indentations are only two spaces in this branch, examples for inline CSS -->
+ <head>
+  <title> internal Css </title>
+  <style>
+  p
+  {
+  color:red;
+  }
+  </style>
+  </head>
+  <body>
+    <h1>Dibagaran Publications</h1>
+    <p>Publication of engineering books</p>
+    <h2>Coding </h2>
+    <p>Instructions on coding from beginner to advanced</p>
+    <h2>Web design</h2>
+    <p>Books on how start a web business <p/>
+  </body>
+</html>
