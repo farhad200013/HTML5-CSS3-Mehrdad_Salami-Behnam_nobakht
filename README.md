@@ -11,11 +11,5 @@ The rar file in this git folder is original codes from the book's author.
 
 
 https://dibagarantehran.com/route/wp-content/uploads/2019/08/HTMLCSS-KARBORDI.jpg
-╔═══╗╔═══╗╔═══╗╔╗─╔╗╔═══╗╔═══╗
-║╔══╝║╔═╗║║╔═╗║║║─║║║╔═╗║╚╗╔╗║
-║╚══╗║║─║║║╚═╝║║╚═╝║║║─║║─║║║║
-║╔══╝║╚═╝║║╔╗╔╝║╔═╗║║╚═╝║─║║║║
-║║───║╔═╗║║║║╚╗║║─║║║╔═╗║╔╝╚╝║
-╚╝───╚╝─╚╝╚╝╚═╝╚╝─╚╝╚╝─╚╝╚═══╝
 
 
